@@ -1,0 +1,575 @@
+2024-11-22 21:53:58,078 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:53:58,276 - INFO - Script started with arguments: Namespace(read_bucket=None, write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue='https://sqs.us-east-1.amazonaws.com/463154338127/cs5250-requests')
+2024-11-22 21:53:58,283 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:54:41,589 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:54:41,788 - INFO - Script started with arguments: Namespace(read_bucket=None, write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue='https://sqs.us-east-1.amazonaws.com/463154338127/cs5250-requests')
+2024-11-22 21:54:41,796 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:54:52,623 - INFO - No messages available.
+2024-11-22 21:55:02,702 - INFO - No messages available.
+2024-11-22 21:55:12,780 - INFO - No messages available.
+2024-11-22 21:55:23,350 - INFO - No messages available.
+2024-11-22 21:55:46,866 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:55:47,062 - INFO - Script started with arguments: Namespace(read_bucket=None, write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue='https://sqs.us-east-1.amazonaws.com/463154338127/cs5250-requests')
+2024-11-22 21:55:47,070 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 21:55:48,856 - INFO - No messages available.
+2024-11-22 21:55:49,935 - INFO - No messages available.
+2024-11-22 21:55:51,013 - INFO - No messages available.
+2024-11-22 21:55:52,088 - INFO - No messages available.
+2024-11-22 21:55:53,165 - INFO - No messages available.
+2024-11-22 21:55:54,242 - INFO - No messages available.
+2024-11-22 21:55:55,317 - INFO - No messages available.
+2024-11-22 21:55:56,394 - INFO - No messages available.
+2024-11-22 21:55:57,468 - INFO - No messages available.
+2024-11-22 21:55:58,543 - INFO - No messages available.
+2024-11-22 21:55:58,545 - INFO - Ten seconds with no requests from queue. Terminating....
+2024-11-22 22:14:11,604 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:14:11,859 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:14:11,859 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:14:12,539 - INFO - Updated Sorted Keys: 48
+2024-11-22 22:14:13,617 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/25b922f9-c56c-4c42-858d-2fe3403d91f9.
+2024-11-22 22:14:14,034 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/846378a7-d4b6-4dcd-90d5-f2241a8ec94d.
+2024-11-22 22:14:14,379 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/ab9a71a7-6d66-4eed-92d4-690fc262ece4.
+2024-11-22 22:14:14,842 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/bc577915-d0e1-40a0-ac68-c3fe4d568a2d.
+2024-11-22 22:14:15,226 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/73921ef5-f03b-41f7-a63b-2fd70f510c96.
+2024-11-22 22:14:15,572 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/5adf2fe7-c8d6-47e4-9288-0402e3ca7753.
+2024-11-22 22:14:15,927 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/d459afc8-f361-4213-bf9e-5bb56072f36c.
+2024-11-22 22:14:16,373 - INFO - Updated widget with key: widgets/sue-smith/5adf2fe7-c8d6-47e4-9288-0402e3ca7753
+2024-11-22 22:14:16,707 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/6d6f36ae-36fe-4623-b875-7954227422bf.
+2024-11-22 22:14:17,058 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/888bb123-e9c4-43af-a1ab-1c99369d2bcb.
+2024-11-22 22:14:17,326 - WARNING - Widget with key widgets/sue-smith/dc829b8f-14ba-4342-bdeb-a9d5d8b2d887 not found. Cannot update.
+2024-11-22 22:14:17,590 - INFO - Deleted widget with key: widgets/sue-smith/5adf2fe7-c8d6-47e4-9288-0402e3ca7753
+2024-11-22 22:14:17,937 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/6656a7db-2589-4808-93da-a2e08201dfea.
+2024-11-22 22:14:18,366 - INFO - Updated widget with key: widgets/henry-hops/6656a7db-2589-4808-93da-a2e08201dfea
+2024-11-22 22:14:18,722 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/76850627-473a-4633-9ec2-8c6c07702b78.
+2024-11-22 22:14:19,080 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/e9b1ad7c-3307-4d00-8eed-8bcec1fd56ab.
+2024-11-22 22:14:19,431 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/5c6f6888-1a57-4ffb-985c-36be1ca62f8f.
+2024-11-22 22:14:19,776 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/7d9dcc31-59c0-42b9-bbc7-623d36362261.
+2024-11-22 22:14:20,118 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/6c7ecd11-5666-4b28-af1a-7bb2b5b7e1b7.
+2024-11-22 22:14:20,454 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/ce4469af-602f-459f-bb29-5518612b0e69.
+2024-11-22 22:14:20,797 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/f7baa3cc-9f57-4cf0-bedc-7a787b089c90.
+2024-11-22 22:14:21,130 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/345b6c08-9d59-41e7-adc2-ae75213639d7.
+2024-11-22 22:14:21,571 - INFO - Updated widget with key: widgets/sue-smith/e9b1ad7c-3307-4d00-8eed-8bcec1fd56ab
+2024-11-22 22:14:21,909 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/5b793600-e44b-449e-8179-187411d59efc.
+2024-11-22 22:14:22,213 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:14:22,263 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/1c8bf265-e78f-481e-911a-c5fb235c5034.
+2024-11-22 22:14:22,440 - INFO - Script started with arguments: Namespace(read_bucket=None, write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue='https://sqs.us-east-1.amazonaws.com/463154338127/cs5250-requests')
+2024-11-22 22:14:22,447 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:14:22,638 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/ef36ab44-1e6e-4b1b-910c-f2bf9d3f318e.
+2024-11-22 22:14:22,890 - INFO - Deleted widget with key: widgets/henry-hops/6656a7db-2589-4808-93da-a2e08201dfea
+2024-11-22 22:14:24,083 - INFO - Updated Sorted Keys: 72
+2024-11-22 22:14:24,270 - INFO - No messages available.
+2024-11-22 22:14:24,371 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/a24150af-46b8-465a-9f99-bc442a6acac6.
+2024-11-22 22:14:24,731 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/6594295a-44f5-43c7-b860-b1e638eeb0da.
+2024-11-22 22:14:25,071 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/2cc1d4d5-38a0-4b99-9d64-c00d1c2a1c85.
+2024-11-22 22:14:25,342 - INFO - No messages available.
+2024-11-22 22:14:25,423 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/dc829b8f-14ba-4342-bdeb-a9d5d8b2d887.
+2024-11-22 22:14:25,683 - INFO - Deleted widget with key: widgets/sue-smith/888bb123-e9c4-43af-a1ab-1c99369d2bcb
+2024-11-22 22:14:25,947 - WARNING - Widget with key widgets/henry-hops/6656a7db-2589-4808-93da-a2e08201dfea not found. Cannot update.
+2024-11-22 22:14:26,379 - INFO - Updated widget with key: widgets/john-jones/76850627-473a-4633-9ec2-8c6c07702b78
+2024-11-22 22:14:26,414 - INFO - No messages available.
+2024-11-22 22:14:26,647 - INFO - Deleted widget with key: widgets/john-jones/76850627-473a-4633-9ec2-8c6c07702b78
+2024-11-22 22:14:27,140 - INFO - Updated widget with key: widgets/henry-hops/d459afc8-f361-4213-bf9e-5bb56072f36c
+2024-11-22 22:14:27,488 - INFO - No messages available.
+2024-11-22 22:14:27,589 - INFO - Updated widget with key: widgets/henry-hops/5c6f6888-1a57-4ffb-985c-36be1ca62f8f
+2024-11-22 22:14:27,938 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/85264b71-d542-410f-90a7-97bd1d4bbf0b.
+2024-11-22 22:14:28,361 - INFO - Updated widget with key: widgets/mary-matthews/ce4469af-602f-459f-bb29-5518612b0e69
+2024-11-22 22:14:28,559 - INFO - No messages available.
+2024-11-22 22:14:28,704 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/0a1ff0a7-f953-4d14-9dd3-0da9103d77e2.
+2024-11-22 22:14:29,136 - INFO - Updated widget with key: widgets/henry-hops/d459afc8-f361-4213-bf9e-5bb56072f36c
+2024-11-22 22:14:29,523 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/3607fcee-5e70-4a9b-8a80-7845dfd3fb61.
+2024-11-22 22:14:29,631 - INFO - No messages available.
+2024-11-22 22:14:29,955 - INFO - Updated widget with key: widgets/henry-hops/d459afc8-f361-4213-bf9e-5bb56072f36c
+2024-11-22 22:14:30,393 - INFO - Updated widget with key: widgets/mary-matthews/ce4469af-602f-459f-bb29-5518612b0e69
+2024-11-22 22:14:30,710 - INFO - No messages available.
+2024-11-22 22:14:30,824 - INFO - Updated widget with key: widgets/mary-matthews/1c8bf265-e78f-481e-911a-c5fb235c5034
+2024-11-22 22:14:31,162 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/f543f58f-417c-4232-b156-09f3cfd298a0.
+2024-11-22 22:14:31,584 - INFO - Updated widget with key: widgets/henry-hops/6d6f36ae-36fe-4623-b875-7954227422bf
+2024-11-22 22:14:31,785 - INFO - No messages available.
+2024-11-22 22:14:31,968 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/979edd67-fdfa-42f9-aa84-be2fdc966c0e.
+2024-11-22 22:14:32,400 - INFO - Updated widget with key: widgets/mary-matthews/ce4469af-602f-459f-bb29-5518612b0e69
+2024-11-22 22:14:32,857 - INFO - No messages available.
+2024-11-22 22:14:33,134 - INFO - Deleted widget with key: widgets/sue-smith/e9b1ad7c-3307-4d00-8eed-8bcec1fd56ab
+2024-11-22 22:14:33,582 - INFO - Updated widget with key: widgets/sue-smith/dc829b8f-14ba-4342-bdeb-a9d5d8b2d887
+2024-11-22 22:14:33,931 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/7aa6869e-dc16-452c-93f4-88123b70d6bb.
+2024-11-22 22:14:33,932 - INFO - No messages available.
+2024-11-22 22:14:33,932 - INFO - Ten seconds with no requests from queue. Terminating....
+2024-11-22 22:14:34,497 - INFO - Updated widget with key: widgets/sue-smith/979edd67-fdfa-42f9-aa84-be2fdc966c0e
+2024-11-22 22:14:35,063 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/6324ef67-8610-4ff1-ac23-37b8dc9a0d65.
+2024-11-22 22:14:35,396 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/ddd36cd8-900d-4f75-83cf-277ee01dc040.
+2024-11-22 22:14:35,737 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/c6fa39ee-a627-44f2-824c-b2d8b2b59367.
+2024-11-22 22:14:36,070 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/47674e78-cbe5-4879-b109-eae8cf875cda.
+2024-11-22 22:14:36,504 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/6e06aee8-4825-400d-95e1-bd601441c761.
+2024-11-22 22:14:36,947 - INFO - Updated widget with key: widgets/sue-smith/47674e78-cbe5-4879-b109-eae8cf875cda
+2024-11-22 22:14:37,391 - INFO - Updated widget with key: widgets/sue-smith/345b6c08-9d59-41e7-adc2-ae75213639d7
+2024-11-22 22:14:37,732 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/161e947c-1336-4244-b7c3-86a89bab5300.
+2024-11-22 22:14:38,238 - INFO - Updated widget with key: widgets/sue-smith/7d9dcc31-59c0-42b9-bbc7-623d36362261
+2024-11-22 22:14:38,594 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/c06284d4-160f-4c5b-ae0f-36723fd59b56.
+2024-11-22 22:14:38,850 - INFO - Deleted widget with key: widgets/john-jones/f7baa3cc-9f57-4cf0-bedc-7a787b089c90
+2024-11-22 22:14:39,211 - INFO - Deleted widget with key: widgets/henry-hops/f98c86f0-a766-4c07-a016-d5a4079697e5
+2024-11-22 22:14:39,559 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/330da083-7b99-476e-a32d-6d7732e104bb.
+2024-11-22 22:14:39,897 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/0521d582-b5d1-4012-a033-f82734b0a4c7.
+2024-11-22 22:14:40,345 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/ec533dcb-df70-45d2-ba65-05c1bdd46533.
+2024-11-22 22:14:40,949 - WARNING - Widget with key widgets/mary-matthews/4bfa33a5-c618-4e00-bc2f-45c2ed55a5e0 not found. Cannot update.
+2024-11-22 22:14:41,280 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/e2c6921e-4ef8-4bbb-80d6-aeb39bec197f.
+2024-11-22 22:14:41,709 - INFO - Updated widget with key: widgets/sue-smith/979edd67-fdfa-42f9-aa84-be2fdc966c0e
+2024-11-22 22:14:42,052 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/aa722f0b-b115-4392-939f-811504283da5.
+2024-11-22 22:14:42,553 - INFO - Updated widget with key: widgets/henry-hops/5c6f6888-1a57-4ffb-985c-36be1ca62f8f
+2024-11-22 22:14:42,884 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/cd28867d-647d-4f36-807a-08a07224e890.
+2024-11-22 22:14:43,148 - WARNING - Widget with key widgets/henry-hops/e0e9ccb0-d865-434a-b446-9272f868106d not found. Cannot update.
+2024-11-22 22:14:43,599 - INFO - Updated widget with key: widgets/sue-smith/aa722f0b-b115-4392-939f-811504283da5
+2024-11-22 22:14:45,056 - INFO - Updated Sorted Keys: 59
+2024-11-22 22:14:45,300 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/baa0ba0e-4476-484e-a925-7bae33459bde.
+2024-11-22 22:14:45,633 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/f25f7932-5c51-449b-95ea-8f8819dcd816.
+2024-11-22 22:14:45,886 - WARNING - Widget with key widgets/sue-smith/e9b1ad7c-3307-4d00-8eed-8bcec1fd56ab not found. Cannot update.
+2024-11-22 22:14:46,955 - INFO - Updated widget with key: widgets/henry-hops/85264b71-d542-410f-90a7-97bd1d4bbf0b
+2024-11-22 22:14:47,607 - INFO - Updated widget with key: widgets/sue-smith/7d9dcc31-59c0-42b9-bbc7-623d36362261
+2024-11-22 22:14:47,997 - INFO - Updated widget with key: widgets/henry-hops/6d6f36ae-36fe-4623-b875-7954227422bf
+2024-11-22 22:14:48,390 - INFO - Updated widget with key: widgets/henry-hops/f25f7932-5c51-449b-95ea-8f8819dcd816
+2024-11-22 22:14:48,703 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/e267d762-9334-4567-b4ad-c52308b0ea16.
+2024-11-22 22:14:49,227 - INFO - Updated widget with key: widgets/sue-smith/7d9dcc31-59c0-42b9-bbc7-623d36362261
+2024-11-22 22:14:49,619 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/f98c86f0-a766-4c07-a016-d5a4079697e5.
+2024-11-22 22:14:50,169 - INFO - Updated widget with key: widgets/john-jones/0a1ff0a7-f953-4d14-9dd3-0da9103d77e2
+2024-11-22 22:14:50,410 - INFO - Deleted widget with key: widgets/henry-hops/6d6f36ae-36fe-4623-b875-7954227422bf
+2024-11-22 22:14:50,738 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/e0e9ccb0-d865-434a-b446-9272f868106d.
+2024-11-22 22:14:51,107 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/849e9fdd-011c-4395-b9b9-a8fc5821a979.
+2024-11-22 22:14:51,579 - INFO - Deleted widget with key: widgets/sue-smith/849e9fdd-011c-4395-b9b9-a8fc5821a979
+2024-11-22 22:14:51,904 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/7d2fc985-1467-4df0-8834-37759690aa7e.
+2024-11-22 22:14:52,302 - INFO - Updated widget with key: widgets/sue-smith/7d9dcc31-59c0-42b9-bbc7-623d36362261
+2024-11-22 22:14:52,591 - INFO - Deleted widget with key: widgets/sue-smith/7d9dcc31-59c0-42b9-bbc7-623d36362261
+2024-11-22 22:14:53,045 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/16b8219c-73b6-4252-bff7-2751f676991c.
+2024-11-22 22:14:53,451 - INFO - Updated widget with key: widgets/mary-matthews/6e06aee8-4825-400d-95e1-bd601441c761
+2024-11-22 22:14:53,888 - INFO - Updated widget with key: widgets/john-jones/6324ef67-8610-4ff1-ac23-37b8dc9a0d65
+2024-11-22 22:14:54,211 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/4962b803-7001-45b2-b74a-4a73c99b260f.
+2024-11-22 22:14:54,519 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/24e28815-22e0-41d4-80af-fdb9d4919614.
+2024-11-22 22:14:55,413 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/dd723870-7173-4d7b-a4f9-baae97bc8dff.
+2024-11-22 22:14:55,729 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/df356c2a-e372-411d-80d5-ff3467975296.
+2024-11-22 22:14:56,140 - INFO - Updated widget with key: widgets/john-jones/ec533dcb-df70-45d2-ba65-05c1bdd46533
+2024-11-22 22:14:56,660 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/870ae53d-a472-49b6-87c9-05281e4bb518.
+2024-11-22 22:14:57,083 - INFO - Updated widget with key: widgets/sue-smith/979edd67-fdfa-42f9-aa84-be2fdc966c0e
+2024-11-22 22:14:57,406 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/025df5f8-e5a7-4081-be4d-bf9e4e64ebbc.
+2024-11-22 22:14:57,841 - INFO - Updated widget with key: widgets/henry-hops/85264b71-d542-410f-90a7-97bd1d4bbf0b
+2024-11-22 22:14:58,088 - WARNING - Widget with key widgets/sue-smith/08d732d6-b76f-4f0f-a295-656a46567289 not found. Cannot update.
+2024-11-22 22:14:58,334 - INFO - Deleted widget with key: widgets/sue-smith/71ee1875-8c67-4730-8772-d6ba632191e9
+2024-11-22 22:14:58,649 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/8fac6479-e492-4f98-bbe3-c8879ac4a78f.
+2024-11-22 22:14:58,892 - INFO - Deleted widget with key: widgets/john-jones/0521d582-b5d1-4012-a033-f82734b0a4c7
+2024-11-22 22:14:59,217 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/f00c6cf5-2411-4fe5-88b6-643939bd7b36.
+2024-11-22 22:14:59,548 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/4bec2655-27f8-45cb-8ad5-b6a2c2a90c20.
+2024-11-22 22:14:59,865 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/b0ce3602-5685-4477-8ec7-2bb681b82b21.
+2024-11-22 22:15:00,194 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/b12fba9a-d155-4d9d-b885-d0332d17bfb6.
+2024-11-22 22:15:00,462 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:15:00,591 - INFO - Updated widget with key: widgets/mary-matthews/1c8bf265-e78f-481e-911a-c5fb235c5034
+2024-11-22 22:15:00,659 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:15:00,659 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:15:00,833 - INFO - Deleted widget with key: widgets/henry-hops/e0e9ccb0-d865-434a-b446-9272f868106d
+2024-11-22 22:15:01,196 - INFO - Updated Sorted Keys: 19
+2024-11-22 22:15:01,905 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/0d51adb9-ad5a-415b-8db7-bacdf25c954c.
+2024-11-22 22:15:02,007 - INFO - Updated Sorted Keys: 18
+2024-11-22 22:15:02,179 - INFO - Deleted widget with key: widgets/mary-matthews/2cc1d4d5-38a0-4b99-9d64-c00d1c2a1c85
+2024-11-22 22:15:02,323 - INFO - Updated widget with key: widgets/henry-hops/d459afc8-f361-4213-bf9e-5bb56072f36c
+2024-11-22 22:15:02,576 - INFO - Updated widget with key: widgets/henry-hops/d459afc8-f361-4213-bf9e-5bb56072f36c
+2024-11-22 22:15:02,612 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/4bfa33a5-c618-4e00-bc2f-45c2ed55a5e0.
+2024-11-22 22:15:02,941 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/f69d8627-5caa-4737-86c1-552fa2bbfe59.
+2024-11-22 22:15:03,323 - INFO - Updated widget with key: widgets/mary-matthews/f543f58f-417c-4232-b156-09f3cfd298a0
+2024-11-22 22:15:03,752 - INFO - Updated widget with key: widgets/mary-matthews/ce4469af-602f-459f-bb29-5518612b0e69
+2024-11-22 22:15:04,156 - INFO - Updated widget with key: widgets/john-jones/0a1ff0a7-f953-4d14-9dd3-0da9103d77e2
+2024-11-22 22:15:04,531 - INFO - Updated widget with key: widgets/mary-matthews/4bfa33a5-c618-4e00-bc2f-45c2ed55a5e0
+2024-11-22 22:15:05,144 - INFO - Updated widget with key: widgets/mary-matthews/ef36ab44-1e6e-4b1b-910c-f2bf9d3f318e
+2024-11-22 22:15:05,459 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/f993445c-2dbd-44cd-9ee1-543428af8366.
+2024-11-22 22:15:05,680 - INFO - Deleted widget with key: widgets/sue-smith/870ae53d-a472-49b6-87c9-05281e4bb518
+2024-11-22 22:15:06,327 - INFO - Updated widget with key: widgets/sue-smith/47674e78-cbe5-4879-b109-eae8cf875cda
+2024-11-22 22:15:06,692 - INFO - Updated widget with key: widgets/sue-smith/979edd67-fdfa-42f9-aa84-be2fdc966c0e
+2024-11-22 22:15:07,355 - INFO - Updated widget with key: widgets/mary-matthews/1c8bf265-e78f-481e-911a-c5fb235c5034
+2024-11-22 22:15:07,742 - INFO - Updated widget with key: widgets/john-jones/6c7ecd11-5666-4b28-af1a-7bb2b5b7e1b7
+2024-11-22 22:15:09,150 - INFO - Updated Sorted Keys: 3
+2024-11-22 22:15:09,447 - INFO - Updated widget with key: widgets/john-jones/c06284d4-160f-4c5b-ae0f-36723fd59b56
+2024-11-22 22:15:09,744 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/71ee1875-8c67-4730-8772-d6ba632191e9.
+2024-11-22 22:15:10,884 - INFO - Updated Sorted Keys: 1
+2024-11-22 22:15:11,107 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/08d732d6-b76f-4f0f-a295-656a46567289.
+2024-11-22 22:15:12,547 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:13,840 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:14,909 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:15,978 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:17,041 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:18,113 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:19,180 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:20,251 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:21,321 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:22,422 - INFO - No objects found in bucket. Waiting for new requests...
+2024-11-22 22:15:22,422 - INFO - Ten seconds with no requests. Terminating....
+2024-11-22 22:18:43,735 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:18:43,998 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:18:43,998 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:18:44,550 - INFO - Updated Sorted Keys: 34
+2024-11-22 22:18:45,237 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/e819e38b-a8eb-4b8a-9a03-219671ba0882.
+2024-11-22 22:18:45,551 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/ed8e4ae6-3cc2-4409-90f1-4ecd86bcbd73.
+2024-11-22 22:18:45,590 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:18:45,790 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:18:45,790 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:18:46,028 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/1dfc4092-753f-4bb7-92e5-31c78700fa18.
+2024-11-22 22:18:46,319 - INFO - Updated Sorted Keys: 38
+2024-11-22 22:18:46,335 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/2ac4032b-ef3c-4f6d-bbac-904232c50064.
+2024-11-22 22:18:46,753 - INFO - Updated widget with key: widgets/john-jones/1dfc4092-753f-4bb7-92e5-31c78700fa18
+2024-11-22 22:18:46,910 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/675629b4-e404-4c36-8d88-a7bee508050e.
+2024-11-22 22:18:46,998 - WARNING - Widget with key widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f not found. Cannot update.
+2024-11-22 22:18:47,170 - WARNING - Widget with key widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f not found. Cannot update.
+2024-11-22 22:18:47,313 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/02dbb6ce-0321-453c-be48-584f045da44d.
+2024-11-22 22:18:47,623 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/bdd7b4a4-ae20-413e-9b0f-f66240ef03d2.
+2024-11-22 22:18:47,946 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/c33f9c2e-5979-434c-bb8c-492262f027c4.
+2024-11-22 22:18:48,265 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/7d66c9f6-7d37-4003-ad6e-0e6583240223.
+2024-11-22 22:18:48,575 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/4b6b1558-923b-4e06-8767-22e1df9510a8.
+2024-11-22 22:18:48,883 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/4c1a9dd4-cdcf-423d-b2a3-23f9eb88f1ba.
+2024-11-22 22:18:49,197 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1.
+2024-11-22 22:18:49,465 - INFO - Deleted widget with key: widgets/sue-smith/f17c4f1e-4b74-473f-9a14-b8b3f25a7232
+2024-11-22 22:18:49,911 - INFO - Updated widget with key: widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1
+2024-11-22 22:18:50,533 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/8dc24ee3-124f-4963-90c5-4f772cd55716.
+2024-11-22 22:18:50,930 - INFO - Updated widget with key: widgets/mary-matthews/ed8e4ae6-3cc2-4409-90f1-4ecd86bcbd73
+2024-11-22 22:18:51,321 - INFO - Updated widget with key: widgets/henry-hops/675629b4-e404-4c36-8d88-a7bee508050e
+2024-11-22 22:18:51,716 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/705ff88a-2584-4ff9-b25c-75f9d30b1095.
+2024-11-22 22:18:51,949 - WARNING - Widget with key widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f not found. Cannot update.
+2024-11-22 22:18:52,120 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:18:52,327 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:18:52,327 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:18:52,344 - INFO - Updated widget with key: widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1
+2024-11-22 22:18:52,877 - INFO - Updated Sorted Keys: 44
+2024-11-22 22:18:53,518 - INFO - Updated Sorted Keys: 46
+2024-11-22 22:18:53,599 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f.
+2024-11-22 22:18:53,741 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f.
+2024-11-22 22:18:53,966 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/9a5f7a06-5872-4166-baac-9958b6e2e752.
+2024-11-22 22:18:54,073 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/9a5f7a06-5872-4166-baac-9958b6e2e752.
+2024-11-22 22:18:54,428 - INFO - Updated widget with key: widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f
+2024-11-22 22:18:54,513 - INFO - Updated widget with key: widgets/mary-matthews/7b60850a-8b0d-483e-b96d-9d9416f4473f
+2024-11-22 22:18:54,811 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80.
+2024-11-22 22:18:54,841 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80.
+2024-11-22 22:18:55,152 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/2a952d4f-0f8f-4d05-bd72-660a83c49c57.
+2024-11-22 22:18:55,160 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/2a952d4f-0f8f-4d05-bd72-660a83c49c57.
+2024-11-22 22:18:55,484 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/eac99bfb-da86-4100-ba2e-90e0a0c18c6f.
+2024-11-22 22:18:55,499 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/eac99bfb-da86-4100-ba2e-90e0a0c18c6f.
+2024-11-22 22:18:55,792 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/5b003a84-6225-47c7-bde1-e85bde73a7ce.
+2024-11-22 22:18:55,873 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/5b003a84-6225-47c7-bde1-e85bde73a7ce.
+2024-11-22 22:18:56,205 - INFO - Updated widget with key: widgets/mary-matthews/ed8e4ae6-3cc2-4409-90f1-4ecd86bcbd73
+2024-11-22 22:18:56,316 - INFO - Updated widget with key: widgets/mary-matthews/ed8e4ae6-3cc2-4409-90f1-4ecd86bcbd73
+2024-11-22 22:18:56,453 - INFO - Deleted widget with key: widgets/sue-smith/9a5f7a06-5872-4166-baac-9958b6e2e752
+2024-11-22 22:18:57,050 - INFO - Deleted widget with key: widgets/sue-smith/9a5f7a06-5872-4166-baac-9958b6e2e752
+2024-11-22 22:18:57,072 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/0e301fbc-cfe8-4bb7-819e-614db3df0d97.
+2024-11-22 22:18:57,385 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/de8b9ab4-3341-49ed-ab3f-0174f1142744.
+2024-11-22 22:18:57,832 - INFO - Updated widget with key: widgets/henry-hops/de8b9ab4-3341-49ed-ab3f-0174f1142744
+2024-11-22 22:18:58,244 - INFO - Updated widget with key: widgets/mary-matthews/2ac4032b-ef3c-4f6d-bbac-904232c50064
+2024-11-22 22:18:58,554 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/f94a0338-efe2-449f-814b-8b17e462f696.
+2024-11-22 22:18:58,881 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/d57f3e40-0338-4b15-a778-913cc80fd80a.
+2024-11-22 22:18:59,280 - INFO - Updated widget with key: widgets/henry-hops/eac99bfb-da86-4100-ba2e-90e0a0c18c6f
+2024-11-22 22:18:59,628 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/7aaad6c6-294c-4cfc-82c3-f5681b34b8d5.
+2024-11-22 22:18:59,890 - INFO - Deleted widget with key: widgets/sue-smith/f9b0d0a4-bda1-4f88-9cb6-d403171434e4
+2024-11-22 22:19:00,275 - INFO - Updated widget with key: widgets/henry-hops/eac99bfb-da86-4100-ba2e-90e0a0c18c6f
+2024-11-22 22:19:00,669 - INFO - Updated widget with key: widgets/sue-smith/f94a0338-efe2-449f-814b-8b17e462f696
+2024-11-22 22:19:01,063 - INFO - Updated widget with key: widgets/john-jones/1dfc4092-753f-4bb7-92e5-31c78700fa18
+2024-11-22 22:19:01,452 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/a1511eb6-ca86-4929-ae37-d2b66471ec77.
+2024-11-22 22:19:01,696 - INFO - Deleted widget with key: widgets/mary-matthews/0e301fbc-cfe8-4bb7-819e-614db3df0d97
+2024-11-22 22:19:02,004 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/4cce47f2-61e3-40b2-8697-2eb78fbed1b6.
+2024-11-22 22:19:02,263 - INFO - Deleted widget with key: widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80
+2024-11-22 22:19:02,584 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/69225386-a785-4908-a319-5bfb19960900.
+2024-11-22 22:19:03,161 - INFO - Updated widget with key: widgets/sue-smith/8dc24ee3-124f-4963-90c5-4f772cd55716
+2024-11-22 22:19:03,485 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/842aeddf-0ae8-4006-a192-003da496c6e9.
+2024-11-22 22:19:04,407 - INFO - Updated widget with key: widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1
+2024-11-22 22:23:01,456 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:23:01,460 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-11-22 22:23:01,795 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:23:01,795 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:23:01,813 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue=None)
+2024-11-22 22:23:01,814 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-11-22 22:23:02,518 - INFO - Updated Sorted Keys: 73
+2024-11-22 22:23:02,536 - INFO - Updated Sorted Keys: 73
+2024-11-22 22:23:03,302 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/f9b0d0a4-bda1-4f88-9cb6-d403171434e4.
+2024-11-22 22:23:03,324 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/f9b0d0a4-bda1-4f88-9cb6-d403171434e4.
+2024-11-22 22:23:03,734 - INFO - Updated widget with key: widgets/sue-smith/f9b0d0a4-bda1-4f88-9cb6-d403171434e4
+2024-11-22 22:23:03,775 - INFO - Updated widget with key: widgets/sue-smith/f9b0d0a4-bda1-4f88-9cb6-d403171434e4
+2024-11-22 22:23:04,026 - WARNING - Widget with key widgets/sue-smith/9a5f7a06-5872-4166-baac-9958b6e2e752 not found. Cannot update.
+2024-11-22 22:23:04,083 - WARNING - Widget with key widgets/sue-smith/9a5f7a06-5872-4166-baac-9958b6e2e752 not found. Cannot update.
+2024-11-22 22:23:04,394 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/312cc497-ee00-4856-9ff6-77f643acbaea.
+2024-11-22 22:23:04,461 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/312cc497-ee00-4856-9ff6-77f643acbaea.
+2024-11-22 22:23:04,668 - WARNING - Widget with key widgets/henry-hops/f8a24073-c2b6-482f-ab17-548aab45e040 not found. Cannot update.
+2024-11-22 22:23:04,719 - WARNING - Widget with key widgets/henry-hops/f8a24073-c2b6-482f-ab17-548aab45e040 not found. Cannot update.
+2024-11-22 22:23:05,046 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/ee1088e6-82a1-4424-b375-5377afd0493d.
+2024-11-22 22:23:05,067 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/ee1088e6-82a1-4424-b375-5377afd0493d.
+2024-11-22 22:23:05,335 - WARNING - Widget with key widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80 not found. Cannot update.
+2024-11-22 22:23:05,402 - WARNING - Widget with key widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80 not found. Cannot update.
+2024-11-22 22:23:05,592 - WARNING - Widget with key widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80 not found. Cannot update.
+2024-11-22 22:23:05,669 - WARNING - Widget with key widgets/john-jones/815522fd-02b4-47db-b3b9-1c6b1ab79a80 not found. Cannot update.
+2024-11-22 22:23:06,057 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/43a64ec9-8b3d-44dd-8945-03e774cda97c.
+2024-11-22 22:23:06,298 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/43a64ec9-8b3d-44dd-8945-03e774cda97c.
+2024-11-22 22:23:06,428 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/87a661d1-a46e-4e9c-98ef-7d2ea6dc8149.
+2024-11-22 22:23:06,635 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/87a661d1-a46e-4e9c-98ef-7d2ea6dc8149.
+2024-11-22 22:23:06,688 - INFO - Deleted widget with key: widgets/mary-matthews/bdd7b4a4-ae20-413e-9b0f-f66240ef03d2
+2024-11-22 22:23:07,047 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/435c1c96-8e6b-4465-bf4d-fbcf17474f0e.
+2024-11-22 22:23:07,130 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/435c1c96-8e6b-4465-bf4d-fbcf17474f0e.
+2024-11-22 22:23:07,412 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/39f2601b-fa17-4952-95c1-38f3801289e9.
+2024-11-22 22:23:07,468 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/39f2601b-fa17-4952-95c1-38f3801289e9.
+2024-11-22 22:23:07,847 - INFO - Updated widget with key: widgets/henry-hops/7d66c9f6-7d37-4003-ad6e-0e6583240223
+2024-11-22 22:23:07,913 - INFO - Updated widget with key: widgets/henry-hops/7d66c9f6-7d37-4003-ad6e-0e6583240223
+2024-11-22 22:23:08,280 - INFO - Updated widget with key: widgets/henry-hops/675629b4-e404-4c36-8d88-a7bee508050e
+2024-11-22 22:23:08,344 - INFO - Updated widget with key: widgets/henry-hops/675629b4-e404-4c36-8d88-a7bee508050e
+2024-11-22 22:23:08,539 - INFO - Deleted widget with key: widgets/henry-hops/435c1c96-8e6b-4465-bf4d-fbcf17474f0e
+2024-11-22 22:23:08,826 - INFO - Deleted widget with key: widgets/henry-hops/435c1c96-8e6b-4465-bf4d-fbcf17474f0e
+2024-11-22 22:23:08,888 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/971c780c-810d-46ff-9d3b-55f9a92aa10c.
+2024-11-22 22:23:09,248 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/46f86c7d-fe95-4871-b175-9f2a2df7e342.
+2024-11-22 22:23:09,317 - INFO - Updated widget with key: widgets/john-jones/ee1088e6-82a1-4424-b375-5377afd0493d
+2024-11-22 22:23:09,767 - INFO - Updated widget with key: widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1
+2024-11-22 22:23:09,846 - INFO - Updated widget with key: widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1
+2024-11-22 22:23:10,100 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/edab08b8-d84c-4f97-bb65-a5b143e0dfc0.
+2024-11-22 22:23:10,206 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/edab08b8-d84c-4f97-bb65-a5b143e0dfc0.
+2024-11-22 22:23:10,471 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/ea40c37c-a1a5-4cc9-986f-da2a6df522f9.
+2024-11-22 22:23:10,554 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/ea40c37c-a1a5-4cc9-986f-da2a6df522f9.
+2024-11-22 22:23:10,919 - INFO - Updated widget with key: widgets/mary-matthews/705ff88a-2584-4ff9-b25c-75f9d30b1095
+2024-11-22 22:23:11,224 - INFO - Updated widget with key: widgets/mary-matthews/705ff88a-2584-4ff9-b25c-75f9d30b1095
+2024-11-22 22:23:11,257 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/8232cceb-d8be-4d76-b3e8-60c28d068723.
+2024-11-22 22:23:11,657 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/ea9ee774-4a5f-4c36-b7a0-ca4723bf9ba2.
+2024-11-22 22:23:11,713 - INFO - Updated widget with key: widgets/henry-hops/2a952d4f-0f8f-4d05-bd72-660a83c49c57
+2024-11-22 22:23:12,000 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/a750243f-9bd1-4450-8ece-7b52c8494b18.
+2024-11-22 22:23:12,055 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/a750243f-9bd1-4450-8ece-7b52c8494b18.
+2024-11-22 22:23:12,393 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/0badd570-0953-4f9b-80a3-def1e8c8b829.
+2024-11-22 22:23:12,470 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/0badd570-0953-4f9b-80a3-def1e8c8b829.
+2024-11-22 22:23:12,739 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/8aebbc3e-b1db-4b64-a025-436e868af426.
+2024-11-22 22:23:12,823 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/8aebbc3e-b1db-4b64-a025-436e868af426.
+2024-11-22 22:23:13,028 - WARNING - Widget with key widgets/mary-matthews/84c05d56-f635-4c5c-b28c-697aae27d9dd not found. Cannot update.
+2024-11-22 22:23:13,086 - WARNING - Widget with key widgets/mary-matthews/84c05d56-f635-4c5c-b28c-697aae27d9dd not found. Cannot update.
+2024-11-22 22:23:13,378 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/24a1062a-7e89-4bcc-93a7-7d687ed7e92b.
+2024-11-22 22:23:13,431 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/24a1062a-7e89-4bcc-93a7-7d687ed7e92b.
+2024-11-22 22:23:13,813 - INFO - Updated widget with key: widgets/sue-smith/43a64ec9-8b3d-44dd-8945-03e774cda97c
+2024-11-22 22:23:13,863 - INFO - Updated widget with key: widgets/sue-smith/43a64ec9-8b3d-44dd-8945-03e774cda97c
+2024-11-22 22:23:14,155 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/030d51d7-e656-4936-b48f-7ecf7f4be76a.
+2024-11-22 22:23:14,207 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/030d51d7-e656-4936-b48f-7ecf7f4be76a.
+2024-11-22 22:23:14,495 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/430eab8c-d38a-41a7-aea2-e3e730060bdb.
+2024-11-22 22:23:14,549 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/430eab8c-d38a-41a7-aea2-e3e730060bdb.
+2024-11-22 22:23:14,848 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/122e34b1-098d-4c76-8f83-db0cf195c9b7.
+2024-11-22 22:23:14,946 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/122e34b1-098d-4c76-8f83-db0cf195c9b7.
+2024-11-22 22:23:15,161 - WARNING - Widget with key widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664 not found. Cannot update.
+2024-11-22 22:23:15,209 - WARNING - Widget with key widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664 not found. Cannot update.
+2024-11-22 22:23:15,526 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/b239312d-4980-4d06-a266-1d6645aa1d94.
+2024-11-22 22:23:15,548 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/b239312d-4980-4d06-a266-1d6645aa1d94.
+2024-11-22 22:23:15,790 - WARNING - Widget with key widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664 not found. Cannot update.
+2024-11-22 22:23:15,821 - WARNING - Widget with key widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664 not found. Cannot update.
+2024-11-22 22:23:16,171 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/ce56204c-c86f-46b2-ad1a-6e355928508a.
+2024-11-22 22:23:16,182 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/ce56204c-c86f-46b2-ad1a-6e355928508a.
+2024-11-22 22:23:16,517 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/c475231d-7460-44a5-b121-52fb4eb35130.
+2024-11-22 22:23:16,538 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/c475231d-7460-44a5-b121-52fb4eb35130.
+2024-11-22 22:23:16,906 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/6d2ea9b3-5a12-4819-bf24-3f7a6d392ceb.
+2024-11-22 22:23:17,265 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/192e70d1-2e5c-4c83-9a03-2d177f30eeb1.
+2024-11-22 22:23:18,003 - INFO - Updated widget with key: widgets/sue-smith/19574ccc-cd81-4407-bf14-369e036761d1
+2024-11-22 22:23:18,351 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/929500d0-2dc3-4654-b394-aff0dbf2c7cf.
+2024-11-22 22:23:18,469 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/6d2ea9b3-5a12-4819-bf24-3f7a6d392ceb.
+2024-11-22 22:23:18,690 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/91f669d3-7258-43e0-bcae-9d7e621dd641.
+2024-11-22 22:23:18,929 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/510c964c-0d28-4221-a460-68a257d4e10c.
+2024-11-22 22:23:19,052 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/1f45c721-9a77-4c1f-a820-0da1f65c788e.
+2024-11-22 22:23:19,268 - INFO - Deleted widget with key: widgets/henry-hops/69225386-a785-4908-a319-5bfb19960900
+2024-11-22 22:23:19,426 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/76c71db5-07ab-441f-aa5e-9311c958d4b7.
+2024-11-22 22:23:19,691 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/71f05945-75f9-493e-b3fb-c2c940e7bd8b.
+2024-11-22 22:23:19,883 - INFO - Updated widget with key: widgets/henry-hops/39f2601b-fa17-4952-95c1-38f3801289e9
+2024-11-22 22:23:20,029 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/22034c6b-42e0-409d-b583-5ec784d482f0.
+2024-11-22 22:23:20,385 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/4d783c7a-b3f9-4393-ac0b-de496adc0fe2.
+2024-11-22 22:23:21,099 - INFO - Updated Sorted Keys: 104
+2024-11-22 22:23:21,358 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/f17c4f1e-4b74-473f-9a14-b8b3f25a7232.
+2024-11-22 22:23:21,588 - INFO - Updated Sorted Keys: 105
+2024-11-22 22:23:21,640 - INFO - Deleted widget with key: widgets/mary-matthews/4c1a9dd4-cdcf-423d-b2a3-23f9eb88f1ba
+2024-11-22 22:23:21,842 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/f8a24073-c2b6-482f-ab17-548aab45e040.
+2024-11-22 22:23:22,073 - INFO - Updated widget with key: widgets/sue-smith/f94a0338-efe2-449f-814b-8b17e462f696
+2024-11-22 22:23:22,284 - INFO - Updated widget with key: widgets/sue-smith/f94a0338-efe2-449f-814b-8b17e462f696
+2024-11-22 22:23:22,711 - INFO - Updated widget with key: widgets/mary-matthews/705ff88a-2584-4ff9-b25c-75f9d30b1095
+2024-11-22 22:23:22,956 - INFO - Updated widget with key: widgets/mary-matthews/705ff88a-2584-4ff9-b25c-75f9d30b1095
+2024-11-22 22:23:23,045 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/76e72aad-b912-45f0-a8f9-7d2a88f3b0a2.
+2024-11-22 22:23:23,314 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/76e72aad-b912-45f0-a8f9-7d2a88f3b0a2.
+2024-11-22 22:23:23,374 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664.
+2024-11-22 22:23:23,873 - INFO - Updated widget with key: widgets/henry-hops/675629b4-e404-4c36-8d88-a7bee508050e
+2024-11-22 22:23:24,296 - INFO - Updated widget with key: widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664
+2024-11-22 22:23:24,304 - INFO - Updated widget with key: widgets/sue-smith/53c8fcb4-65b9-4435-85ba-be1e0af25664
+2024-11-22 22:23:24,720 - INFO - Updated widget with key: widgets/sue-smith/02dbb6ce-0321-453c-be48-584f045da44d
+2024-11-22 22:23:24,750 - INFO - Updated widget with key: widgets/sue-smith/02dbb6ce-0321-453c-be48-584f045da44d
+2024-11-22 22:23:25,096 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/84c05d56-f635-4c5c-b28c-697aae27d9dd.
+2024-12-12 16:57:06,835 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-12-12 16:57:07,475 - INFO - Script started with arguments: Namespace(read_bucket='usu-cs5250-shadownate12-requests', write_bucket=None, write_database=None, read_queue=None)
+2024-12-12 16:57:07,475 - INFO - Reading S3 Bucket: usu-cs5250-shadownate12-requests
+2024-12-12 16:57:08,480 - INFO - Updated Sorted Keys: 44
+2024-12-12 16:57:08,667 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:08,830 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:09,169 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:09,376 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:09,479 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:09,577 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:09,663 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:10,133 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:10,217 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:10,513 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:10,602 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:10,851 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 16:57:11,141 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:10,378 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-12-12 17:05:10,599 - INFO - Script started with arguments: Namespace(read_bucket=None, write_bucket='usu-cs5250-shadownate12-web', write_database=None, read_queue='https://sqs.us-east-1.amazonaws.com/463154338127/cs5250-requests')
+2024-12-12 17:05:10,608 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2024-12-12 17:05:12,531 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/f919def6-257d-49f4-96b7-04b1596fef1a.
+2024-12-12 17:05:12,532 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:12,607 - INFO - Message deleted successfully.
+2024-12-12 17:05:12,863 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/83816c8f-c73c-46c9-95bd-a6492fa36222.
+2024-12-12 17:05:12,864 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:12,942 - INFO - Message deleted successfully.
+2024-12-12 17:05:13,206 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/2ce67f5f-8dd5-4abc-831a-6c25e970acff.
+2024-12-12 17:05:13,206 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:13,282 - INFO - Message deleted successfully.
+2024-12-12 17:05:13,536 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/822b636f-de40-4a6b-a2b4-1b555d2e4d59.
+2024-12-12 17:05:13,537 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:13,615 - INFO - Message deleted successfully.
+2024-12-12 17:05:13,872 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/ace1e45c-d363-48d1-8d2a-ae6dc1deb879.
+2024-12-12 17:05:13,873 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:13,950 - INFO - Message deleted successfully.
+2024-12-12 17:05:14,200 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/43b59d13-8405-4f06-abe4-0cf9e1cfef75.
+2024-12-12 17:05:14,201 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:14,281 - INFO - Message deleted successfully.
+2024-12-12 17:05:14,534 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/26403b0b-1df8-4252-9ee6-130b2d7a9931.
+2024-12-12 17:05:14,535 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:14,611 - INFO - Message deleted successfully.
+2024-12-12 17:05:14,861 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/3b21e240-80a0-4e44-8953-e3b525686652.
+2024-12-12 17:05:14,862 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:14,937 - INFO - Message deleted successfully.
+2024-12-12 17:05:15,188 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/285a4509-ba38-4482-bfc4-2d9c014ba81c.
+2024-12-12 17:05:15,189 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:15,264 - INFO - Message deleted successfully.
+2024-12-12 17:05:15,524 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/ef38cd6f-543d-48a5-810e-538bd9eedb05.
+2024-12-12 17:05:15,524 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:15,693 - INFO - Message deleted successfully.
+2024-12-12 17:05:15,941 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/b8c24fc3-cdde-48c4-af4a-93c1a1c34228.
+2024-12-12 17:05:15,941 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:16,018 - INFO - Message deleted successfully.
+2024-12-12 17:05:16,270 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/de74aa93-5b96-4361-ba24-7607bef9e0ce.
+2024-12-12 17:05:16,271 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:16,348 - INFO - Message deleted successfully.
+2024-12-12 17:05:16,599 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/dd115537-c3da-4866-8c71-23963409fcb9.
+2024-12-12 17:05:16,599 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:16,676 - INFO - Message deleted successfully.
+2024-12-12 17:05:16,989 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/c63a37cf-8fd7-48e1-8c9f-96f28993aba6.
+2024-12-12 17:05:16,989 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:17,063 - INFO - Message deleted successfully.
+2024-12-12 17:05:17,319 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/951837f5-ab78-47f5-9ebd-9fd5776696cd.
+2024-12-12 17:05:17,320 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:17,395 - INFO - Message deleted successfully.
+2024-12-12 17:05:17,643 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/8e753e10-9682-4e4f-b59d-3bc6a6154de1.
+2024-12-12 17:05:17,644 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:17,719 - INFO - Message deleted successfully.
+2024-12-12 17:05:17,968 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/c6fd11d7-3d9a-48d7-8cff-bb511b099d3f.
+2024-12-12 17:05:17,969 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:18,046 - INFO - Message deleted successfully.
+2024-12-12 17:05:18,296 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/386fd8cf-a785-43cf-84f2-fd17664dbc17.
+2024-12-12 17:05:18,296 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:18,375 - INFO - Message deleted successfully.
+2024-12-12 17:05:18,640 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/9a9437c1-7f16-481c-9133-f4a0fd6aae91.
+2024-12-12 17:05:18,640 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:18,714 - INFO - Message deleted successfully.
+2024-12-12 17:05:18,963 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/0fea02c2-d86f-4fa0-b495-c54c77d36b6a.
+2024-12-12 17:05:18,964 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:19,040 - INFO - Message deleted successfully.
+2024-12-12 17:05:19,290 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/0c7498c0-39be-4e1d-8fe5-55d5d297d48b.
+2024-12-12 17:05:19,290 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:19,363 - INFO - Message deleted successfully.
+2024-12-12 17:05:19,612 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/95bc70a5-ba1f-4846-912e-2b01ddf7e6a5.
+2024-12-12 17:05:19,613 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:19,688 - INFO - Message deleted successfully.
+2024-12-12 17:05:19,936 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/a2bf23ca-78a6-4ddb-994d-8312f60b09d1.
+2024-12-12 17:05:19,936 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:20,010 - INFO - Message deleted successfully.
+2024-12-12 17:05:20,255 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/5582d50c-d624-4adb-87c5-124a6f8ab495.
+2024-12-12 17:05:20,256 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:20,332 - INFO - Message deleted successfully.
+2024-12-12 17:05:20,592 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/6045df25-9c39-4704-b763-f5c579c5a02d.
+2024-12-12 17:05:20,592 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:20,668 - INFO - Message deleted successfully.
+2024-12-12 17:05:20,918 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/de9e6aad-2f7e-4db4-a74e-8c549701e521.
+2024-12-12 17:05:20,919 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:20,994 - INFO - Message deleted successfully.
+2024-12-12 17:05:21,245 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/2a21a691-d9ef-4da6-9c91-f89e9f1e1439.
+2024-12-12 17:05:21,245 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:21,328 - INFO - Message deleted successfully.
+2024-12-12 17:05:21,572 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/28955acb-eced-494b-9274-a9dd98cc9f76.
+2024-12-12 17:05:21,573 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:21,654 - INFO - Message deleted successfully.
+2024-12-12 17:05:21,900 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/9b6f63bd-6a9f-4b9e-9717-48dfc10a1445.
+2024-12-12 17:05:21,900 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:21,978 - INFO - Message deleted successfully.
+2024-12-12 17:05:22,236 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/e2aadb1a-3a3d-4e9a-815b-e4f4fc8f4115.
+2024-12-12 17:05:22,237 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:22,310 - INFO - Message deleted successfully.
+2024-12-12 17:05:22,557 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/96f89b00-f6ae-4f02-a458-a3823016d109.
+2024-12-12 17:05:22,558 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:22,630 - INFO - Message deleted successfully.
+2024-12-12 17:05:22,875 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/bacc17eb-41e9-4e1c-b8d0-0fc2b37c8043.
+2024-12-12 17:05:22,876 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:22,950 - INFO - Message deleted successfully.
+2024-12-12 17:05:23,222 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/6a423d23-3ac7-4b39-b1e9-5f1e9034df95.
+2024-12-12 17:05:23,222 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:23,295 - INFO - Message deleted successfully.
+2024-12-12 17:05:23,660 - INFO - Updated widget with key: widgets/john-jones/b8c24fc3-cdde-48c4-af4a-93c1a1c34228
+2024-12-12 17:05:23,662 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:23,734 - INFO - Message deleted successfully.
+2024-12-12 17:05:24,079 - INFO - Updated widget with key: widgets/mary-matthews/6045df25-9c39-4704-b763-f5c579c5a02d
+2024-12-12 17:05:24,079 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:24,154 - INFO - Message deleted successfully.
+2024-12-12 17:05:24,488 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/129af742-78fb-407e-b09b-7b6946e207b7.
+2024-12-12 17:05:24,489 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:24,564 - INFO - Message deleted successfully.
+2024-12-12 17:05:24,892 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/7348a671-cfae-4a0f-9e99-f8302b8f8727.
+2024-12-12 17:05:24,893 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:24,966 - INFO - Message deleted successfully.
+2024-12-12 17:05:25,305 - INFO - Updated widget with key: widgets/john-jones/b8c24fc3-cdde-48c4-af4a-93c1a1c34228
+2024-12-12 17:05:25,305 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:25,388 - INFO - Message deleted successfully.
+2024-12-12 17:05:25,651 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/28d4f784-17af-497c-8a66-055124c28479.
+2024-12-12 17:05:25,652 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:25,748 - INFO - Message deleted successfully.
+2024-12-12 17:05:26,027 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/c2e4ee0e-08e6-4bff-a406-f9f4a2d5e042.
+2024-12-12 17:05:26,027 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:26,106 - INFO - Message deleted successfully.
+2024-12-12 17:05:27,000 - INFO - Updated widget with key: widgets/john-jones/8e753e10-9682-4e4f-b59d-3bc6a6154de1
+2024-12-12 17:05:27,000 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:27,058 - INFO - Message deleted successfully.
+2024-12-12 17:05:27,307 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/mary-matthews/0e9b9c3b-6274-4a57-81fc-17711ff14432.
+2024-12-12 17:05:27,308 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:27,378 - INFO - Message deleted successfully.
+2024-12-12 17:05:27,627 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/john-jones/8a051622-20b5-4b2a-88a7-2f75a12c78ea.
+2024-12-12 17:05:27,628 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:27,691 - INFO - Message deleted successfully.
+2024-12-12 17:05:28,766 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/d99afd5a-cb18-4bf9-a528-8e5deb7123f4.
+2024-12-12 17:05:28,766 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:28,841 - INFO - Message deleted successfully.
+2024-12-12 17:05:29,090 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/5d43cc45-75e0-4a30-b830-0ed13f0a4319.
+2024-12-12 17:05:29,091 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:29,152 - INFO - Message deleted successfully.
+2024-12-12 17:05:29,408 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/40de5d21-6d9b-42da-b5ff-478a28fd663e.
+2024-12-12 17:05:29,408 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:29,472 - INFO - Message deleted successfully.
+2024-12-12 17:05:29,750 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/fae82157-bbc6-4969-8dfd-6e4209dcd549.
+2024-12-12 17:05:29,750 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:29,818 - INFO - Message deleted successfully.
+2024-12-12 17:05:30,055 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/5e701b7a-b555-4e99-bc84-1dc082fb8af5.
+2024-12-12 17:05:30,055 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:30,117 - INFO - Message deleted successfully.
+2024-12-12 17:05:30,450 - INFO - Updated widget with key: widgets/john-jones/c6fd11d7-3d9a-48d7-8cff-bb511b099d3f
+2024-12-12 17:05:30,450 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:30,513 - INFO - Message deleted successfully.
+2024-12-12 17:05:30,777 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/henry-hops/ce9e116e-0438-47f8-a41d-0fc4c695e845.
+2024-12-12 17:05:30,777 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:30,840 - INFO - Message deleted successfully.
+2024-12-12 17:05:31,117 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/ec15f096-9a9b-4153-a788-3063e96a6b51.
+2024-12-12 17:05:31,118 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:31,180 - INFO - Message deleted successfully.
+2024-12-12 17:05:31,591 - INFO - Updated widget with key: widgets/john-jones/b8c24fc3-cdde-48c4-af4a-93c1a1c34228
+2024-12-12 17:05:31,591 - ERROR - Failed to update widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:31,653 - INFO - Message deleted successfully.
+2024-12-12 17:05:31,966 - INFO - Stored Widget in usu-cs5250-shadownate12-web with key widgets/sue-smith/4dc74a02-dca7-465f-ae0f-bbd32627ef5d.
+2024-12-12 17:05:31,966 - ERROR - Failed to store Widget: expected string or bytes-like object, got 'NoneType'
+2024-12-12 17:05:32,030 - INFO - Message deleted successfully.
+2024-12-12 17:05:33,091 - INFO - No messages available.
+2024-12-12 17:05:34,152 - INFO - No messages available.
+2024-12-12 17:05:35,213 - INFO - No messages available.
+2024-12-12 17:05:36,273 - INFO - No messages available.
+2024-12-12 17:05:37,332 - INFO - No messages available.
+2024-12-12 17:05:38,392 - INFO - No messages available.
+2024-12-12 17:05:39,456 - INFO - No messages available.
+2024-12-12 17:05:40,515 - INFO - No messages available.
+2024-12-12 17:05:41,591 - INFO - No messages available.
+2024-12-12 17:05:42,650 - INFO - No messages available.
+2024-12-12 17:05:42,650 - INFO - Ten seconds with no requests from queue. Terminating....
